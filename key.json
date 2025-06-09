@@ -1,5 +1,16 @@
 {
-  "live_keys": ["live123", "live456"],
-  "future_keys": ["future123", "future456"],
-  "both_keys": ["both123", "both456"]
+  "live_keys": [
+    "LIVEKEY1",
+    "LIVEKEY2",
+    "LIVEKEY3"
+  ],
+  "future_keys": [
+    "FUTUREKEY1",
+    "FUTUREKEY2",
+    "FUTUREKEY3"
+  ],
+  "master_keys": [
+    "MASTERKEY1",
+    "MASTERKEY2"
+  ]
 }
