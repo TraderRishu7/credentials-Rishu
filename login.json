@@ -1,5 +1,13 @@
 {
-  "main_password": "ALPHA2026",
-  "vip_password": "VIP2026",
-  "active": true
+  "active": true,
+  "main_passwords": [
+    "ALPHA2026",
+    "USER123",
+    "TESTLOGIN"
+  ],
+  "vip_passwords": [
+    "VIP2026",
+    "PRO123",
+    "ADMINVIP"
+  ]
 }
